@@ -11,4 +11,4 @@ function Leftbar(){
         </div>
     );
 }
-export default Leftbar
+export default Leftbar;
