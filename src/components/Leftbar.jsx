@@ -4,11 +4,11 @@ function Leftbar(){
             <h3>Menu</h3>
             <ul>
                 <li>Home</li>
-                <li>Course</li>
+                <li>Courses</li>
                 <li>Students</li>
                 <li>Contact</li>
             </ul>
         </div>
     );
 }
-export default Leftbar;
+export default Leftbar
