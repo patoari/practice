@@ -1,9 +1,9 @@
 function Header(){
     return(
         <header>
-        <h1>My Learning Website</h1>
-        <p>welcome to our React practice project</p>
-        hr
+            <h1>My Learning website</h1>
+            <p>Welcome to my React Practice Project</p>
+            <hr />
         </header>
-    )
+    );
 }
